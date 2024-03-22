@@ -1,0 +1,19 @@
+{
+  "name": "quodquo",
+  "version": "1.0.0",
+  "description": "generate random eth address by npm and save your private address",
+  "main": "index.js",
+  "author": "ErnaLind",
+  "license": "MIT",
+  "dependencies": {
+    "ethereumjs-wallet": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JudsonGislason/quodquo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JudsonGislason/quodquo.git/issues"
+  }
+}
